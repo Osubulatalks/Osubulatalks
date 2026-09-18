@@ -1,6 +1,4 @@
-# Osubulatalks Solutions
-
-Custom software for African schools and small businesses. Built and running today, not a plan for later.
+![Osubulatalks Solutions](osubulatalks-github-banner.png)
 
 ## What I build
 
